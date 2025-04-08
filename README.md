@@ -40,14 +40,19 @@ Importez le fichier antic_courrier.sql depuis PhpMyAdmin ou via la ligne de comm
 
 ### 4. Configuration du fichier de connexion
 Dans le fichier config.php ou équivalent, assurez-vous que les informations suivantes sont correctes :
-$host = "localhost";
+$serveur = "localhost";
+$name = "antic";
 $user = "root";
-$password = "";
-$dbname = "antic_courrier";
+$pass = "";
 
 ### 5. Lancer le projet
 Ouvrez votre navigateur et accédez à :
-http://localhost/antic-courrier
+http://localhost/antic
+
+Connecter avec le compte administrateur pour pouvoir gerer l'integraliter du projet et creer les differents comptes:
+email: admin@gmail.com
+mot de passe: 123456
+
 Structure des rôles utilisateurs
 Admin : Gère les structures et les utilisateurs
 Directeur : Envoie et reçoit des courriers liés à sa direction
