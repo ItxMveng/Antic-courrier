@@ -29,7 +29,6 @@ Elle permet la gestion des courriers entrants et sortants au sein d'une structur
 ## Installation et utilisation
 
 ### 1. Cloner le projet
-```bash
 git clone https://github.com/ItxMveng/antic-courrier.git
 
 ### 2. Copier le dossier dans votre serveur local
