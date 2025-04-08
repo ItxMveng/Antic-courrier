@@ -59,6 +59,29 @@ Directeur : Envoie et reçoit des courriers liés à sa direction
 Sous-directeur : Reçoit ou transmet des courriers liés à son département
 Employé : Gère les courriers de son service
 
+## Aperçu de l'application
+
+### Page d'accueil
+![Accueil](./screenshots/accueil.png)
+
+### Formulaire de connexion
+![Formulaire de connexion](./screenshots/connexion.png)
+
+### Page d'accueil admin
+![Accueil_admin](./screenshots/accueil_admin.png)
+
+### Formulaire d'envoi courrier
+![Formulaire d'envoi courrier](./screenshots/form_envoi.png)
+
+### Vue reception courrier
+![Reception courrier](./screenshots/recep_courrier.png)
+
+### Vue gestion structure
+![Gestion structure](./screenshots/gest_structure.png)
+
+### Vue gestion comptes
+![Gestion comptes](./screenshots/gest_compte.png)
+
 ### Auteur
 Développé par : Itoua Mveng Victor Francis
 Email : francisitoua05@gmail.com
