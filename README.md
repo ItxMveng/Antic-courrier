@@ -1,5 +1,4 @@
 # Antic-courrier
-# ANTIC COURRIER
 
 **ANTIC COURRIER** est une application web de gestion électronique du courrier, développée avec **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **PHP** et **MySQL**.  
 Elle permet la gestion des courriers entrants et sortants au sein d'une structure hiérarchisée (Direction, Département, Cellule, Service), avec envoi de fichiers, notifications, gestion des utilisateurs par rôles, et signature numérique.
